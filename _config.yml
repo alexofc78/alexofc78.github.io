@@ -1,11 +1,11 @@
 # Site settings
-author: ALEXANDRA OLIVEROS
-title: 
+author: Alex Oliveros
+title: Coding back to life
 header-img: img/home-bg.png
 email: alexofc@gmail.com
-copyright_name: ALEXANDRA OLIVEROS
+copyright_name: Alex Oliveros
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Fresh Start
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alexofc78
