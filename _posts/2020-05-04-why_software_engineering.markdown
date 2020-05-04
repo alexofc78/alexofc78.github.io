@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Software Engineering?"
-date:       2020-05-04 20:59:03 +0000
+date:       2020-05-04 16:59:04 -0400
 permalink:  why_software_engineering
 ---
 
@@ -14,5 +14,5 @@ Lost my pace, got behing in llessons, labs, couldnt make it. A very bad situatio
 
 Nowadays even more we see the essential role technology plays in our daily life. I need to understand it, to deal with it and work with it. Coding is about creating, designing so I´m into it.
 
-Let´s see how I do!
+*Let´s see how I do!*
 
